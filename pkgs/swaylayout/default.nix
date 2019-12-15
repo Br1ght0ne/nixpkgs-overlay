@@ -11,7 +11,7 @@ rustPlatform.buildRustPackage rec {
     sha256 = "0vdmfdgbr6jwin4vyzrlnri55b7nndgdn88rhavk05z5b3f0n9ac";
   };
 
-  cargoSha256 = "0vdmfdgbr6jwin4vyzrlnri55b7nndgdn88rhavk05z5b3f0n9ac";
+  cargoSha256 = "05zl4whc4aglg2l0m96z1r60zd9ay506xcifnirymjydgssqjqrx";
 
   meta = with lib; {
     description = "Get the current Sway keyboard layout";
